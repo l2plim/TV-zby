@@ -129,5 +129,6 @@ http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8
 http://cdn9.1678520.xyz/xsj2.1.php?id=now-sports-prime
 #EXTINF:-1  group-title="港台频道" tvg-logo="https://epg.112114.xyz/logo/咪咕.png",咪咕
 http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/50/index.m3u8?&encrypt=
-
+#EXTINF:-1  group-title="港台频道" tvg-logo="https://epg.112114.xyz/logo/寰宇台湾.png",寰宇台湾
+http://37.27.111.214:8080/live/63/hls.m3u8
 
